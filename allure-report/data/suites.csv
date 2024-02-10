@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Feb 10 12:38:57 IST 2024","Sat Feb 10 12:40:14 IST 2024","77430","testscripts","test_directChatCases","TestDemo","","","test_dc_001",""

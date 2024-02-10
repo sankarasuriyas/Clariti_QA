@@ -1,0 +1,29 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "testscripts",
+    "children" : [ {
+      "name" : "test_directChatCases",
+      "children" : [ {
+        "name" : "TestDemo",
+        "children" : [ {
+          "name" : "test_dc_001",
+          "uid" : "be0ee7767bd29d5e",
+          "parentUid" : "08cf517e2fb633f7f85b2c3c749f6c31",
+          "status" : "passed",
+          "time" : {
+            "start" : 1707548937310,
+            "stop" : 1707549014740,
+            "duration" : 77430
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "08cf517e2fb633f7f85b2c3c749f6c31"
+      } ],
+      "uid" : "2f8506272ff3552cdf9841ee7a73400d"
+    } ],
+    "uid" : "9a7596de56c26c1bdb559810d8b7c170"
+  } ]
+}

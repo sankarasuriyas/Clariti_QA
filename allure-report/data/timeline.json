@@ -1,0 +1,25 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "Suriya",
+    "children" : [ {
+      "name" : "3616-MainThread",
+      "children" : [ {
+        "name" : "test_dc_001",
+        "uid" : "be0ee7767bd29d5e",
+        "parentUid" : "755112ca9ae4fe08aef59c9d2b88bc0e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1707548937310,
+          "stop" : 1707549014740,
+          "duration" : 77430
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "755112ca9ae4fe08aef59c9d2b88bc0e"
+    } ],
+    "uid" : "a7da28bd54f37f9b6d0f99601d8aee68"
+  } ]
+}

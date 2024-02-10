@@ -1,0 +1,30 @@
+{
+    "win64_chromedriver_118.0.5993.71_for_118.0.5993.71": {
+        "timestamp": "17/10/2023",
+        "binary_path": "D:\\Clariti_Project\\ClaritiProject_Mine\\.wdm\\drivers\\chromedriver\\win64\\118.0.5993.71\\chromedriver-win32/chromedriver.exe"
+    },
+    "win64_chromedriver_118.0.5993.118_for_118.0.5993.118": {
+        "timestamp": "28/10/2023",
+        "binary_path": "D:\\Clariti_Project\\ClaritiProject_Mine\\.wdm\\drivers\\chromedriver\\win64\\118.0.5993.118\\chromedriver-win32/chromedriver.exe"
+    },
+    "win64_chromedriver_118.0.5993.70_for_118.0.5993": {
+        "timestamp": "06/11/2023",
+        "binary_path": "D:\\Clariti_Project\\ClaritiProject_Mine\\.wdm\\drivers\\chromedriver\\win64\\118.0.5993.70\\chromedriver-win32/chromedriver.exe"
+    },
+    "win64_chromedriver_120.0.6099.109_for_120.0.6099": {
+        "timestamp": "26/01/2024",
+        "binary_path": "D:\\Clariti_Project\\ClaritiProject_Mine\\.wdm\\drivers\\chromedriver\\win64\\120.0.6099.109\\chromedriver-win32/chromedriver.exe"
+    },
+    "win64_chromedriver_120.0.6099.199_for_120.0.6099.199": {
+        "timestamp": "07/01/2024",
+        "binary_path": "D:\\Clariti_Project\\ClaritiProject_Mine\\.wdm\\drivers\\chromedriver\\win64\\120.0.6099.199\\chromedriver.exe"
+    },
+    "win64_chromedriver_121.0.6167.85_for_121.0.6167": {
+        "timestamp": "10/02/2024",
+        "binary_path": "D:\\Clariti_Project\\ClaritiProject_Mine\\.wdm\\drivers\\chromedriver\\win64\\121.0.6167.85\\chromedriver-win32/chromedriver.exe"
+    },
+    "win64_chromedriver_121.0.6167.161_for_121.0.6167.161": {
+        "timestamp": "10/02/2024",
+        "binary_path": "D:\\Clariti_Project\\ClaritiProject_Mine\\.wdm\\drivers\\chromedriver\\win64\\121.0.6167.161\\chromedriver-win32/chromedriver.exe"
+    }
+}

@@ -1,0 +1,22 @@
+{
+  "e39e77f07ea28a37d46b8139732800fc" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "be0ee7767bd29d5e",
+      "reportUrl" : "http://localhost:8080/job/Demo1Job/14/allure/#testresult/be0ee7767bd29d5e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1707548937310,
+        "stop" : 1707549014740,
+        "duration" : 77430
+      }
+    } ]
+  }
+}

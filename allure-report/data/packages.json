@@ -1,0 +1,21 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "testscripts.test_directChatCases",
+    "children" : [ {
+      "name" : "test_dc_001",
+      "uid" : "be0ee7767bd29d5e",
+      "parentUid" : "303ef74a37831e0b758720224cfeac70",
+      "status" : "passed",
+      "time" : {
+        "start" : 1707548937310,
+        "stop" : 1707549014740,
+        "duration" : 77430
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "testscripts.test_directChatCases"
+  } ]
+}
